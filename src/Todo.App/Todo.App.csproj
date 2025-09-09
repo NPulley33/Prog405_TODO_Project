@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\ToDo.Common\ToDo.Common.csproj" />
+    <ProjectReference Include="..\Todo.Common\Todo.Common.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

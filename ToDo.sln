@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3F9572C3-860
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.App", "src\Todo.App\Todo.App.csproj", "{B5BE2D7F-20F3-4E9D-ACB0-DEE0E240E27D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDo.Common", "src\Todo.Common\ToDo.Common.csproj", "{83A8A981-6D62-4635-AC59-67FC08FA32D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todo.Common", "src\Todo.Common\Todo.Common.csproj", "{83A8A981-6D62-4635-AC59-67FC08FA32D8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{C26E3918-2174-40FF-ACE7-B44E73955BB9}"
 EndProject
